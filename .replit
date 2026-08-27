@@ -1,0 +1,2 @@
+modules = ["nodejs-24"]
+run = "node server.js"
